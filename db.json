@@ -1,9 +1,16 @@
 {
-  "stations": [
-    { "id": 1, "name": "Matriz Per-Fiscal" , "type":"CANAL" , "tenantId":1 },
-  ],
-  "tenants": [
-    { "id":1, "name":"ASOCIACION EMBALSE DIGUA" }
+   "stations":[
+      {
+         "id":1,
+         "name":"Matriz Per-Fiscal",
+         "type":"CANAL",
+         "tenantId":1
+      }
+   ],
+   "tenants":[
+      {
+         "id":1,
+         "name":"ASOCIACION EMBALSE DIGUA"
+      }
    ]
- 
 }
